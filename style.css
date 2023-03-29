@@ -151,9 +151,9 @@ header {
 }
 
 .porfolios {
-    padding: 80px 0px;
+    padding: 50px 0px;
     text-align: center;
-    color: rgb(146, 15, 15);
+    color: rgb(0, 0, 0);
 }
 
 .porfolios h2 {
@@ -163,6 +163,7 @@ header {
 .porfolio {
     display: flex;
     align-items: center;
+    font-size: 20px;
 }
 
 .porfolio img {
@@ -175,12 +176,12 @@ header {
 }
 
 .porfolio-1 h3 {
-    font-size: 35px;
+    font-size: 70px;
     margin-bottom: 15px;
 }
 
 .porfolio-1 p {
-    font-size: 18px;
+    font-size: 20px;
     color: rgb(0, 0, 0);
     margin-bottom: 25px;
 }
@@ -196,7 +197,7 @@ margin-bottom: 15px;
 }
 
 .porfolio-2 p {
-    font-size: 18px;
+    font-size: 20px;
     color: rgb(0, 0, 0);
     margin-bottom: 25px;
 }
